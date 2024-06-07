@@ -1,6 +1,5 @@
-Sure! Below is an example of a README file for your turtle race project:
 
----
+
 
 # Turtle Race Game
 
